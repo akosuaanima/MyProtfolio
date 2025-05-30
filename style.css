@@ -1,0 +1,12 @@
+.service{
+    background-image: linear-gradient(rgba(13, 231, 71, 0.5), rgba(3, 150, 42, 0.5)),url('./images/lapimage.jpg');
+}
+.serviceimage{
+    background-image: linear-gradient(rgba(162, 55, 195, 0.5), rgba(233, 8, 222, 0.5)),url('./images/lapimage.jpg');
+}
+.servicepurple{
+    background-image: linear-gradient(rgba(211, 198, 18, 0.925), rgba(156, 147, 17, 0.925)),url('./images/lapimage.jpg');
+}
+.serviceblue{
+    background-image: linear-gradient(rgba(56, 182, 255, 0.5), rgba(56, 182, 255, 0.925)),url('./images/lapimage.jpg');
+};
